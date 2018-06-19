@@ -1,4 +1,4 @@
-# Zemsta Kalisteników
+# "Zemsta Kalisteników" vel "AnsiFighting"
 Real Time 2D Fighting Game "Zemsta Kalisteników 1"
 
 To run the game run AnsiFighting.exe file.
